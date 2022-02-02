@@ -1,0 +1,4 @@
+number of lines 79
+number of empty lines 104
+words count 246
+characters with no spaces 1447
