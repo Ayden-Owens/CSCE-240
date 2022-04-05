@@ -1,0 +1,16 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district, then the district number, and .txt
+user: district77.txt
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+cpu: Please type a question
+cpu: if you'd like an example question just type example
+user: name
+cpu: ##############################################################################
+cpu: I assume you mean the name of the representative
+cpu: Representative Kambrell H. Garvin
+cpu: Please type a question
+cpu: if you'd like an example question just type example
+user: q
+cpu: ##############################################################################
+cpu: I assume you mean quit so I'm shutting down, Goodbye!
