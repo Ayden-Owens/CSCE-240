@@ -1,0 +1,138 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+user: 77
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+if you'd like an example question just type example
+If you want to look at chat statistics just type summary
+user: tell me about the representative
+cpu: I assume you want all of the representative's personal info
+cpu: Type 1 for yes or type any number for no
+cpu: Personal Information
+Attorney, McGowan, Hood & Felder, LLC Residing in Blythewood
+Born October 2, 1991
+Son of Dr. Sonji Garvin Baxter, Rev. John K. Baxter, and Reginald S. Garvin, Sr. Winthrop 
+University, B.A., 2013
+Johns Hopkins University, MS.Ed., 2016
+University of South Carolina School of Law, J.D., 2019
+December 19, 2015 married Monique Patton, 1 child, Wrenley Primrose Student Government President
+Ex-officio member, Board of Trustees
+Member, Presidential Search and Selection Committee, Winthrop University, 2011-13 John C. West 
+Forum on Policy & Politics Legislative Intern - 2013
+Public School Teacher, Colleton County School District, 2013-16
+S.C. Education Association, 2013-16 Teach for America Alumnus Columbia NAACP, 2006-Present
+Alpha Phi Alpha Fraternity, Incorporated Member of First Nazareth Baptist Church
+Vice Chair, Richland County Legislative Delegation, 2020-present Parliamentarian, SC Legislative 
+Black Caucus, 2020-present
+
+user: where does rep live
+cpu: I assume you mean where the representative's lives
+cpu: Type 1 for his business address or type 2 for his columbia address or if you didn't want either just type any number
+cpu: Columbia Address
+335D Blatt Bldg. Columbia 29201
+user: How do I contact my repo
+cpu: I assume you want all of the contact information so here you go
+cpu: Type 1 for yes or type any other number for no
+cpu: 1/31/22, 2:01 PM                      South Carolina Legislature Online - Member Biography
+Representative Kambrell H. Garvin
+Democrat - Richland
+District 77 - Richland County - Map
+Columbia Address
+335D Blatt Bldg. Columbia 29201
+Business Phone (803) 212-6875
+Home Address
+P.O. Box 292434 Columbia 29229
+Home Phone (803) 470-3961
+Send message to Representative Garvin
+
+user: Tell me everything
+cpu: 1/31/22, 2:01 PM                      South Carolina Legislature Online - Member Biography
+
+
+
+
+
+Representative Kambrell H. Garvin
+
+
+Democrat - Richland
+District 77 - Richland County - Map
+Columbia Address
+335D Blatt Bldg. Columbia 29201
+Business Phone (803) 212-6875
+
+
+
+Home Address
+P.O. Box 292434 Columbia 29229
+Home Phone (803) 470-3961
+Send message to Representative Garvin
+
+
+Personal Information
+Attorney, McGowan, Hood & Felder, LLC Residing in Blythewood
+Born October 2, 1991
+Son of Dr. Sonji Garvin Baxter, Rev. John K. Baxter, and Reginald S. Garvin, Sr. Winthrop 
+University, B.A., 2013
+Johns Hopkins University, MS.Ed., 2016
+University of South Carolina School of Law, J.D., 2019
+December 19, 2015 married Monique Patton, 1 child, Wrenley Primrose Student Government President
+Ex-officio member, Board of Trustees
+Member, Presidential Search and Selection Committee, Winthrop University, 2011-13 John C. West 
+Forum on Policy & Politics Legislative Intern - 2013
+Public School Teacher, Colleton County School District, 2013-16
+S.C. Education Association, 2013-16 Teach for America Alumnus Columbia NAACP, 2006-Present
+Alpha Phi Alpha Fraternity, Incorporated Member of First Nazareth Baptist Church
+Vice Chair, Richland County Legislative Delegation, 2020-present Parliamentarian, SC Legislative 
+Black Caucus, 2020-present
+Committee Assignments
+Agriculture, Natural Resources & Environmental Affairs Legislative Oversight
+Sponsored Bills in the House
+Primary Sponsor:  Yes  No
+Search Session: 2021-2022 (124)  Find Bills
+
+Voting Record
+Search Session: 2021-2022 (124)  Find Votes
+
+Legislative Services Agency
+h t t p : / / w w w . s c s t a t e h o u s e . g o v
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.scstatehouse.gov/member.php?code=0657954467                                            
+1/1
+
+user: What district do you support for Q/A
+cpu: Supports district77
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: sfjsbkgbsjg
+cpu: Can you please retype or rephase your response we don't understand
+user: 3777292u
+cpu: Can you please retype or rephase your response we don't understand
+user: quit
+cpu: I assume you mean quit so I'm shutting down, Goodbye!

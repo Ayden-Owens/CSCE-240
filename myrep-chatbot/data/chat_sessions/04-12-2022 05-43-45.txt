@@ -1,0 +1,1155 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district number 
+user: summary
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: 
+cpu: Can you please retype or rephase your response we don't understand

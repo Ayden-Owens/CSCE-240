@@ -1,0 +1,21 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+cpu: Then type in a question
+user: district77.txt
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+user: example
+cpu: ##############################################################################
+cpu: Here are some example questions
+cpu: where does the rep live
+cpu: How do I contact rep
+cpu: tell about the representative
+cpu: ##############################################################################
+user: get name
+cpu: I assume you mean the name of the representative
+cpu: couldn't find name!
+user: district77
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+user: q
+cpu: I assume you mean quit so I'm shutting down, Goodbye!

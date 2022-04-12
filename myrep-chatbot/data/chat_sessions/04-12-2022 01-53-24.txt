@@ -1,0 +1,18 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+cpu: Then type in a question
+user: district77
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+user: hi
+cpu: Can you please retype or rephase your response we don't understand
+user: no 
+cpu: Can you please retype or rephase your response we don't understand
+user: support
+user: where does he live
+cpu: I assume you mean where the representative's lives
+cpu: Type 1 for his business address or type 2 for his columbia address or if you didn't want either just type any number
+cpu: Home Address
+P.O. Box 292434 Columbia 29229
+user: q
+cpu: I assume you mean quit so I'm shutting down, Goodbye!

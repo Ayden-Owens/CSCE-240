@@ -1,0 +1,14 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+cpu: Then type in a question
+user: district77
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+user: get name
+cpu: I assume you mean the name of the representative
+cpu: Representative Kambrell H. Garvin
+user: summary
+user: 
+cpu: Can you please retype or rephase your response we don't understand
+user: q
+cpu: I assume you mean quit so I'm shutting down, Goodbye!

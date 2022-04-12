@@ -1,0 +1,4 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+cpu: Then type in a question
+user: summarry

@@ -1,0 +1,8 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+cpu: Then type in a question
+user: suppport
+cpu: Can you please retype or rephase your response we don't understand
+user: support
+user: q
+cpu: I assume you mean quit so I'm shutting down, Goodbye!

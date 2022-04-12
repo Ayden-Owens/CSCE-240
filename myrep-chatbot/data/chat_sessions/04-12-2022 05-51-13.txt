@@ -1,0 +1,20 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district number 
+user: 77
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+if you'd like an example question just type example
+If you want to look at chat statistics just type summary
+user: bless
+cpu: Can you please retype or rephase your response we don't understand
+user: does the rep like beef fried rice
+cpu: Can you please retype or rephase your response we don't understand
+user: is the rep single
+cpu: Can you please retype or rephase your response we don't understand
+user: is the rep married
+cpu: I assume you want the representative's martial status
+cpu: married
+user: voting record pls
+cpu: I assume you want to know about the representative's voting record however we can't provide that type of information, Sorry
+user: q
+cpu: I assume you mean quit so I'm shutting down, Goodbye!

@@ -1,0 +1,11 @@
+cpu: If you need to exit for any reason please type q or quit
+cpu: Please enter district then the district number 
+user: 77
+cpu: Hi, Welcome my name is Mandy I'm your chatbot!
+cpu: ##############################################################################
+if you'd like an example question just type example
+If you want to look at chat statistics just type summary
+user: what district do you support
+cpu: Supports district77
+user: q
+cpu: I assume you mean quit so I'm shutting down, Goodbye!
