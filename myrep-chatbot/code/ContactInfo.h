@@ -11,6 +11,7 @@ public:
 	
 	ContactInfo();//default constructor
 
+	void getDistrict(std::string time, std::string text);
 	void getName(std::string time, std::string text);
 	void getParty(std::string time, std::string text);
 	void getHomeAddress(std::string time, std::string text);

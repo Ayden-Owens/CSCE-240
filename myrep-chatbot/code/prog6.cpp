@@ -268,9 +268,10 @@ int main(){
                 cs.summary();
         }
         else if (reply == "support"){
-            cout<<"Supports district77"<<endl;
-            cs.saver(str, "cpu: Supports district77");
+            cout<<"I assume you want to know the district this supports"<<endl;
+            cs.saver(str, "cpu: I assume you want to know the district this supports");
             cs.cpu++;
+            c.getDistrict(str, text);
         }
         else{
             cout<<"Can you please retype or rephase your response we don't understand"<<endl;

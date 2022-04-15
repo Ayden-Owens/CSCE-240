@@ -10,6 +10,28 @@ ContactInfo :: ~ContactInfo(){};//destructor
 
 ContactInfo :: ContactInfo(){};
 
+void ContactInfo :: getDistrict(string time, string txt){
+	ConversationSaver cs;
+	smatch m;
+	string message1 = "cpu: ";
+	string message2 = "cpu: ";
+	regex district ("District [0-9]{2}");
+	if (regex_search(txt, m, district)){
+		for (auto x :m){
+			cout<<x<<endl;
+			message1 += x;
+			cs.saver(time, message1);
+			cs.cpu++;
+		}
+	}
+	else{
+		cout<<"couldn't find name!"<<endl;
+		message2 += "couldn't find name!";
+		cs.saver(time, message2);
+		cs.cpu++;
+	}
+}
+
 void ContactInfo :: getName(string time, string txt){
 	ConversationSaver cs;
 	smatch m;
